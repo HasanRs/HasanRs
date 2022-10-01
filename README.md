@@ -13,6 +13,8 @@
   
 
 - 💬 Ask me about React, Vue, anything.  
+
+- 📝 Go to my blog hasanbaygul.codes
   
 
 <br/>  
