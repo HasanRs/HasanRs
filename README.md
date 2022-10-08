@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [React Workflow](https://github.com/HasanRs/react-calisma-ortami)  
   
 
-- 🌱 I’m currently learning Angular & Graphql  
+- 🌱 I’m currently learning C & React
   
 
-- 💬 Ask me about React, Vue, anything.  
+- 💬 Ask me about React, C, anything.  
 
 - 📝 Go to my blog hasanbaygul.codes
   
