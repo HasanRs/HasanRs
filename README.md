@@ -6,13 +6,13 @@
 ### <div align="center">Hi 👋, I'm Hasan Baygül. A passionate frontend developer from Turkey.</div>  
   
 
-- 🔭 I’m currently working on [React Workflow](https://github.com/HasanRs/react-calisma-ortami)  
+- 🔭 I’m currently working on Altay Digital's Website
   
 
-- 🌱 I’m currently learning C & React
+- 🌱 I’m currently learning VueJS & NuxtJS
   
 
-- 💬 Ask me about React, C, anything.  
+- 💬 Ask me about React, C, Vue and Nuxt
 
 - 📝 Go to my blog hasanbaygul.codes
   
