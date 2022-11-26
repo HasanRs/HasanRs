@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Hasan Baygül. A passionate frontend developer from Turkey.</div>  
+### <div align="center">Hi 👋, I'm Hasan Baygül. A passionate fullstack developer from Turkey.</div>  
   
 
 - 🔭 I’m currently working on Altay Digital's Website
