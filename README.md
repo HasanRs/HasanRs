@@ -6,10 +6,10 @@
 ### <div align="center">Hi 👋, I'm Hasan Baygül. A passionate fullstack developer from Turkey.</div>  
   
 
-- 🔭 I’m currently working on Altay Digital's Website
+- 🔭 I’m currently working on RakıBalık
   
 
-- 🌱 I’m currently learning VueJS & NuxtJS
+- 🌱 I’m currently learning Nest Js
   
 
 - 💬 Ask me about React, C, Vue and Nuxt
