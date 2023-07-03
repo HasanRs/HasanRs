@@ -89,16 +89,6 @@
 
 <br/>  
 
-
-## Spotify
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5tgbzgqcva5qo7ivfgjowejs1&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HasanRs&&style=flat-square" align="center" />
 </div>  
