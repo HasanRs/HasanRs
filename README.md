@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sacramento&size=92&duration=3000&pause=500&color=37F723&center=true&vCenter=true&width=832&height=439&lines=Hi!;I'm+Hasan;Full-Stack+Developer)](https://git.io/typing-svg)
   
 
 ### <div align="center">Hi 👋, I'm Hasan Baygül. A passionate fullstack developer from Turkey.</div>  
